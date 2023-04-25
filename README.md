@@ -1,1 +1,1 @@
-# このリポジトリはAPPRENTICE課題のGit/GitHub用です。
+## このリポジトリはAPPRENTICE課題のGit/GitHub用です。
